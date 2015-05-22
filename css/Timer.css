@@ -1,0 +1,25 @@
+#container{
+	text-align: center;
+	padding: 20px 0px;
+}
+
+.timer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #B3B2B2;
+}
+
+.timer input[type="text"]{
+    text-align: right;
+    height:  28px;
+    width: 40px;
+    padding: 0px;
+    border-width: 1px;
+    margin: 0px;
+}
+
+.spacer{
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
